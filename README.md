@@ -5,6 +5,9 @@
 # DOMAIN: Frontend Development
 
 # Project: Build A Calculator
+
+
+![Screenshot 2024-08-05 070513](https://github.com/user-attachments/assets/0fdbe362-57f6-486d-83e2-d44f80294a0d)
 # Key Insights
 This project demonstrates the creation of a basic calculator using HTML, CSS, and JavaScript. It covers fundamental concepts of web development, including:
 
@@ -21,3 +24,10 @@ This project demonstrates the creation of a basic calculator using HTML, CSS, an
 . CSS: Utilized for styling the calculator, including setting the layout, colors, and button styles. The CSS also includes box-shadow effects and button designs to enhance the visual appeal.
 . JavaScript: Manages the functionality of the calculator, handling button clicks, performing calculations, and updating the display.
 # output
+
+
+https://github.com/user-attachments/assets/69d2d8ab-4a2e-4c67-aaa9-e6506c804741
+
+
+
+
